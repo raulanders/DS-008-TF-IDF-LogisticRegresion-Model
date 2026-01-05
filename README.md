@@ -7,7 +7,7 @@ El notebook cubre todo el flujo básico de un proyecto de NLP supervisado: desde
 
 ## 📂 Archivo principal
 
-`model-tf-idf-logreg.ipynb`
+`f-model-tf-idf-logreg.ipynb`
 
 Notebook que incluye:
 - Carga del dataset
